@@ -3,7 +3,7 @@ You can edit the map yourself and record your own footprints!
 
 你可以在地图上随意添加/修改去过的城市/国家，记录那些值得回忆的诗和远方！
 
-我也是一个热爱旅游的 CSer，灵感来源：[@ FootPrint](https://github.com/muyuuuu/FootPrint)，后稍作修改，感恩🙏
+我也是一个热爱旅游的 CSer，灵感来源：@ [FootPrint](https://github.com/muyuuuu/FootPrint)，后稍作修改，感恩🙏
 
 Optional China map / world map
 
