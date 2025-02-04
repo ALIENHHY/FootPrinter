@@ -7,9 +7,9 @@ You can edit the map yourself and record your own footprints!
 
 Optional the map of China / the world
 
-Reference data source for the spelling of countries in the world map: [World-Countries](https://github.com/ALIENHHY/FootPrinter/blob/main/World-Countries.txt).
+Reference for the spelling of countries in the world map: [World-Countries](https://github.com/ALIENHHY/FootPrinter/blob/main/World-Countries.txt).
 
-Reference data source for the spelling of provinces in the Chinese map: [China-Provinces](https://github.com/ALIENHHY/FootPrinter/blob/main/China-Provinces.txt).
+Reference for the spelling of provinces in the Chinese map: [China-Provinces](https://github.com/ALIENHHY/FootPrinter/blob/main/China-Provinces.txt).
 
 Display labels when mouse over country/region/province/city.
 
