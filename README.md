@@ -5,7 +5,7 @@ You can edit the map yourself and record your own footprints!
 
 我也是一个热爱旅行的 CSer，灵感来源：@[FootPrint](https://github.com/muyuuuu/FootPrint)，感恩🙏
 
-Optional China map / world map
+Optional map of China / the world
 
 Reference data source for the spelling of countries in the world map: [world.json](https://raw.githubusercontent.com/apache/echarts-website/asf-site/examples/data/asset/geo/world.json).
 
