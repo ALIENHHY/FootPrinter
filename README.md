@@ -7,9 +7,9 @@ You can edit the map yourself and record your own footprints!
 
 Optional China map / world map
 
-Reference data source for countries in the world map: [world.json](https://raw.githubusercontent.com/apache/echarts-website/asf-site/examples/data/asset/geo/world.json).
+Reference data source for the spelling of countries in the world map: [world.json](https://raw.githubusercontent.com/apache/echarts-website/asf-site/examples/data/asset/geo/world.json).
 
-Reference data source for provinces in the Chinese map: [100000_full.json](https://geo.datav.aliyun.com/areas_v3/bound/100000_full.json).
+Reference data source for the spelling of provinces in the Chinese map: [100000_full.json](https://geo.datav.aliyun.com/areas_v3/bound/100000_full.json).
 
 Display labels when mouse over country/region/province/city.
 
