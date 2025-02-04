@@ -1,4 +1,4 @@
-# MAP-DIY
+# FootPrint
 You can edit the map yourself and record your own footprints!
 
 你可以在地图上标记那些城市/国家，记录值得回忆的诗和远方！
