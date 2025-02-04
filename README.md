@@ -9,6 +9,6 @@ Reference data source for countries in the world map: https://raw.githubusercont
 
 Reference data source for provinces in the Chinese map: https://geo.datav.aliyun.com/areas_v3/bound/100000_full.json
 
-Display labels when mouse over country/region/province/city
+Display labels when mouse over country/region/province/city.
 
 ![image](https://github.com/user-attachments/assets/45290541-2227-4986-9f94-f2d22374099d)
