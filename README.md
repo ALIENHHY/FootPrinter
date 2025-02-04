@@ -15,7 +15,7 @@ Display labels when mouse over country/region/province/city.
 
 <figure style="text-align: center;">
   <div style="display: flex; justify-content: center; align-items: center;">
-    <img src="https://github.com/user-attachments/assets/45290541-2227-4986-9f94-f2d22374099d" style="height: 300px; width: auto; margin-right: 10px;">
-    <img src="https://github.com/user-attachments/assets/a0bc2a43-cddd-48d4-91f0-9597386070e9" style="height: 300px; width: auto;">
+    <img src="https://github.com/user-attachments/assets/45290541-2227-4986-9f94-f2d22374099d" style="height: 250px; width: auto; margin-right: 10px;">
+    <img src="https://github.com/user-attachments/assets/a0bc2a43-cddd-48d4-91f0-9597386070e9" style="height: 250px; width: auto;">
   </div>
 </figure>
