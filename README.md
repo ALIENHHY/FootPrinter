@@ -11,6 +11,10 @@ Reference for the spelling of countries in the world map: [World-Countries](http
 
 Reference for the spelling of provinces in the Chinese map: [China-Provinces](https://github.com/ALIENHHY/FootPrinter/blob/main/China-Provinces.txt).
 
+中国各省市区经纬度信息请参考xlsx文件：[中国省市区经纬度.xlsx](https://github.com/ALIENHHY/FootPrinter/blob/main/%E4%B8%AD%E5%9B%BD%E7%9C%81%E5%B8%82%E5%8C%BA%E7%BB%8F%E7%BA%AC%E5%BA%A6.xlsx)
+
+Welcome to provide and supplement data from other countries, thanks🥰
+
 Display labels when mouse over country/region/province/city.
 
 <figure style="text-align: center;">
